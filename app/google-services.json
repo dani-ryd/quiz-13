@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "490749246940",
+    "project_id": "fir-testcrashes-6957d",
+    "storage_bucket": "fir-testcrashes-6957d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490749246940:android:f65be5e3e6c63733c96319",
+        "android_client_info": {
+          "package_name": "com.app.firebasecrashlytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490749246940-o43qcp1gar63bmafig9645kkaqkt1h18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDX8SDMB-bDK8q3wOIC-IwO56MvuY5u0Nw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490749246940-o43qcp1gar63bmafig9645kkaqkt1h18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
